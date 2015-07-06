@@ -1,0 +1,1 @@
+application written in C# to manipulate list of images to rotate, resize and add custom watermarks so they can be uploaded to the web
